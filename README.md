@@ -1,5 +1,3 @@
-https://dados-python-ngrgtffqptdt8v6zqp9sbr.streamlit.app/
-
 Este código cria um Dashboard Interativo utilizando a biblioteca Streamlit para analisar dados de salários na área de dados (Data Science, Data Analytics, Data Engineering, etc.).
 
 Aqui está uma descrição detalhada da estrutura e funcionalidade do script app.py:
