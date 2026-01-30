@@ -50,3 +50,6 @@ Mapa Coroplético (Múndi): Este gráfico é específico: ele filtra apenas o ca
 
 6. Dados Detalhados
 Ao final da página, o código exibe a tabela completa dos dados filtrados (st.dataframe), permitindo que o usuário explore as linhas individuais que compõem os gráficos acima.
+
+<img width="1408" height="768" alt="Gemini_Generated_Image_wpcvgewpcvgewpcv" src="https://github.com/user-attachments/assets/a438a778-a24a-41e7-8741-70f32a3c6bb1" />
+
